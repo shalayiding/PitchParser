@@ -46,5 +46,5 @@ python3 LSTM_predic.py
 
 ![plot](./Images/Bones/project2_bones_train_val.png)
 ![plot](./Images/BLSTM/project2_BLSTM_confusionmatrix.png)
-![plot](./Images/LSTM/project2_LSTM_high_prob_waveform.png)
+![plot](./Images/BLSTM/project2_BLSTM_high_prob_waveform.png)
 <!-- ![plot2](/Images/BLSTM/project2_LSTM_train_val.png)) -->
